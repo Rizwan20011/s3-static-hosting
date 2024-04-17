@@ -1,4 +1,4 @@
-# s3-static-hosting1
+# s3-static-hosting
 
 hands on
 #output ![Screenshot 2024-01-21 123038](https://github.com/Rizwan20011/s3-static-hosting/assets/152096183/b6053413-3a6e-4ce3-b603-1c37f7c4fddc)
